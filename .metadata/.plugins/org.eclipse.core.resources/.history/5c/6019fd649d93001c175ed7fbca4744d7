@@ -1,0 +1,7 @@
+server.port=8089
+
+spring.data.mongodb.database=ProductDb
+spring.data.mongodb.uri=mongodb://127.0.0.1:27017/ProductDb
+#eureka.client.register-with-eureka=true
+#eureka.client.fetch-registry=true
+spring.application.name=StoryMicroService

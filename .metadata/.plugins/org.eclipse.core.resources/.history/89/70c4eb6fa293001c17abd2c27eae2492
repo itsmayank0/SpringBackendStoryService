@@ -1,0 +1,7 @@
+package com.niit.StoryMicroService.Respository;
+
+import org.springframework.data.mongodb.repository.MongoRepository;
+
+public interface IStoryRepository extends MongoRepository<, > {
+
+}
